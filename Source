@@ -1,0 +1,189 @@
+/**
+* @name Community Design
+* @version 1.0.0
+* @description A Theme Designed And Shaped By The Betterdiscord Community 
+* @author Monke Time
+* @invite 
+* @Source 
+* @website 
+*/
+
+.scrollableContainer-15eg7h {border-radius: 60px}
+
+body{background-color: transparent;}
+#app-mount{border-radius: 12px;}
+
+.role-2TIOKu {
+    transform: translate(0);
+    overflow: hidden;
+
+    --transparency: .4;
+    border-radius: 5px;
+}
+.role-2TIOKu .roleRemoveIcon-387wKV {
+    margin: 0;
+    left: unset;
+    transform: translate(50%,-50%);
+}
+.role-2TIOKu .roleRemoveButton-17oXnT {
+    position: static;
+}
+.role-2TIOKu .roleCircle-3K9O3d:before {
+    content: '';
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: inherit;
+    opacity: var(--transparency);
+}
+ 
+#themes-tab .bd-addon-controls:after {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  content: "Thank You For Choosing Community Design You Can Explore The Theme Now!";
+  width: 100%;
+  margin-top: 16px;
+  padding: 16px;
+  background-color: var(--card-color);
+  border-radius: var(--card-radius-big);
+  border: 1px solid var(--card-border-color);
+  color: var(--text-normal);
+  box-sizing: border-box;
+  white-space: pre;
+  word-wrap: break-word;
+  line-height: 18px;
+}
+
+ 
+#plugins-tab .bd-addon-controls:after {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  content: "Thank You For All The Amazing Work Betterdiscord Developers!";
+  width: 100%;
+  margin-top: 16px;
+  padding: 16px;
+  background-color: var(--card-color);
+  border-radius: var(--card-radius-big);
+  border: 1px solid var(--card-border-color);
+  color: var(--text-normal);
+  box-sizing: border-box;
+  white-space: pre;
+  word-wrap: break-word;
+  line-height: 18px;
+}
+
+.background-3d_SjE {
+    background-color: transparent;
+}
+.fieldList-in8WkP {
+    background-color: transparent;
+}
+.field-21XZwa:last-child {
+    margin-right: 0 !important;
+}
+.field-21XZwa {
+    width: calc((100%/3) - ((20/3) * 1px));
+    border-radius: 8px;
+    background-color: var(--background-primary);
+    max-height: none;
+    flex-flow: column;
+    padding: 15px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 0 !important;
+    position: relative;
+    overflow-y: scroll;
+    height: 125px;
+}
+.field-21XZwa::-webkit-scrollbar {
+    width: 0;
+}
+.field-21XZwa .fieldButton-14lHvK {
+    background-color: var(--background-secondary) !important;
+    border-radius: 8px;
+    transition: .3s;
+}
+.field-21XZwa .fieldButton-14lHvK:hover {
+    background-color: var(--background-secondary-alt) !important;
+}
+.field-21XZwa .fieldButton-14lHvK:hover > div {
+    background-image: none !important;
+}
+.field-21XZwa .fieldButton-14lHvK:nth-child(1) {
+    right: 5px;
+}
+.field-21XZwa .fieldButton-14lHvK {
+    bottom: 10px;
+    position: absolute;
+}
+.avatar-3mTjvZ ~ button {
+    margin-right: 15px;
+    border-radius: 8px;
+}
+
+.body-1Ukv50 {
+    background-color: var(--background-secondary);
+    margin: 15px;
+    width: calc(100% - 30px);
+    border-radius: 8px;
+    border: none;
+}
+.root-g14mjS.small-23Atuv.fullscreenOnMobile-ixj0e3 {
+    background-color: var(--background-floating);
+    border-radius: 20px;
+}
+.banner-2boKnS, .banner-1YaD3N {
+    margin: 10px;
+    width: calc(100% - 20px);
+    border-radius: 8px;
+}
+.container-1gYwHN {
+    border-radius: 8px;
+    background-color: var(--background-primary);
+    padding: 5px;
+    width: fit-content;
+}
+.clickable-1knRMS {
+    margin: 0;
+}
+.connectedAccountContainer-SlCC-S {
+    width: 100%;
+}
+.connectedAccountsColumn-2LgTkZ {
+    width: calc((100%/2) - 20px);
+}
+.userPopoutInner-PA9zkU.userPopoutInnerWithoutTheme-23vLID.userPopoutInnerNonPremium-3zrFkp {
+    background-color: var(--background-secondary-alt);
+}
+
+.panels-3wFtMD {
+  margin-right: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  border: 1px solid var(--background-secondary);
+  border-radius: 20px;
+  box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.45);
+}
+
+.wordmarkWindows-2dq6rw svg {
+    display:none;
+}
+.wordmarkWindows-2dq6rw::after {
+    content: 'Community';
+    font-family: var(--font-headline);
+    font-size: 10.10px;
+    font-weight: 550;
+    top:4px;
+    left: 2px;
+    position: relative;
+    letter-spacing: 0.1px;
+}
+
+.menu-1QACrS, .colorDefault-CDqZdO { 
+    border-radius: 15px; 
+}
