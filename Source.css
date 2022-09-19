@@ -187,3 +187,11 @@ body{background-color: transparent;}
 .menu-1QACrS, .colorDefault-CDqZdO { 
     border-radius: 15px; 
 }
+
+.base-2v-uc0 {
+    transition: all 0.5s;
+}
+.base-2v-uc0:hover {
+    transition: all 0s;
+    transform: scale(1.02);
+}
