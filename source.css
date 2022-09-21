@@ -187,75 +187,12 @@ body{background-color: transparent;}
     transform: scale(1.02);
 }
 
-.sidebarRegion-1VBisG,
-.sidebarRegionScroller-FXiQOh {
-    justify-content: unset;
-    flex: unset
-}
-.contentColumn-1C7as6,
-.customColumn-2n-oKU,
-.hero-1aNo0v {
-    max-width: unset;
-}
-.accountProfileCard-lbN7n- {
-    max-width: 7500px;
-}
-.notificationSettings-1U0JsJ {
-    max-width: 45%;
-}
-.option-2eIyOn,
-.searchBox-pyIJJj {
-    transition: 0.20s ease;
+.connectedAccountContainer-3aLMHJ.discordMemberCreatedAt-31OkT7 {
+    position: absolute;
+    top: 0;
+    margin-top: 16px;
 }
 
-/*make my account better*/
-
-.background-3d_SjE {
-  background-color: transparent;
-}
-.fieldList-in8WkP {
-  background-color: transparent;
-}
-.field-21XZwa:first-child {
-  margin-left: 10px;
-}
-.field-21XZwa {
-  width: calc((100%/3) - 16px);
-  border-radius: 8px;
-  background-color: var(--background-primary);
-  height: 108px;
-  max-height: none;
-  flex-flow: column;
-  padding: 15px;
-  display: inline-block;
-  margin-right: 10px;
-  margin-top: 0 !important;
-  position: relative;
-  overflow-y: scroll;
-}
-.field-21XZwa::-webkit-scrollbar {
-  width: 0;
-}
-
-.avatar-3mTjvZ{
-  transform: translateX(-50%);
-  left: 50%;
-}
-
-
-
-.profileCardUsernameRow-1bb6fi{
-  padding-left: 377px;
-}
-
-.profileCardUsernameRow-1bb6fi{
-  padding-top: 55.5px;
-}
-
-.accountProfileCard-lbN7n-{
-  background-color: #1b1a1a;
-}
-
-.button-f2h6uQ{
-  border-radius: 50px;
+.infoScroller-1QMpon>.userInfoSection-2u2hir:first-child {
+    margin-top: 74px;
 }
